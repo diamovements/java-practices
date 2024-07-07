@@ -19,11 +19,11 @@
 | 14  |Создать отдельный репозиторий Git. Создать простой html-документ, который будет содержать вашу фамилию, имя, номер группы, номер варианта. Создать контроллер, который будет возвращать данный статический документ при переходе на url «/home». Выполнить задание в зависимости с вариантом индивидуального задания. **Вариант 1:** Создать класс Student с полями firstName, lastName, middleName. Создать класс Group с полем groupName. Создать классы-контроллеры для создания, удаления объектов и получения всех объектов каждого типа. Сами объекты хранить в памяти.| [Практика 14](https://github.com/diamovements/Java-practices-two/tree/a99fc10b6005d25c66346f54fc41f4382b8bfdc9/src/main/java/org/example/Pr14)  |
 | 15  |Изменить программу с предыдущего задания так, чтобы объекты хранились в базе данных PostgreSQL вместо памяти компьютера.    | [Практика 15](https://github.com/diamovements/Java-practices-two/tree/a99fc10b6005d25c66346f54fc41f4382b8bfdc9/src/main/java/org/example/Pr15)   |
 | 16  |Создать связь Один-ко-многим между сущностями из предыдущего задания и проверить работу lazy loading.   | [Практика 16](https://github.com/diamovements/Java-practices-two/tree/a99fc10b6005d25c66346f54fc41f4382b8bfdc9/src/main/java/org/example/Pr16)   |
-| 17  |   |   |
-| 18  |   |   |
-| 19  |   |   |
-| 20  |   |   |
-| 21  |   |   |
-| 22  |   |   |
-| 23  |   |   |
-| 24  |   |   |
+| 17  |   | [Практика 17](https://github.com/diamovements/Java-practices-two/tree/c684b5b3a355e48cf8134481735517a091021da2/src/main/java/org/example/Pr17)  |
+| 18  |   | [Практика 18](https://github.com/diamovements/Java-practices-two/tree/c684b5b3a355e48cf8134481735517a091021da2/src/main/java/org/example/Pr18)  |
+| 19  |   | [Практика 19](https://github.com/diamovements/Java-practices-two/tree/c684b5b3a355e48cf8134481735517a091021da2/src/main/java/org/example/Pr19)  |
+| 20  |   | [Практика 20](https://github.com/diamovements/Java-practices-two/tree/c684b5b3a355e48cf8134481735517a091021da2/src/main/java/org/example/Pr20)  |
+| 21  |   | [Практика 21](https://github.com/diamovements/Java-practices-two/tree/c684b5b3a355e48cf8134481735517a091021da2/src/main/java/org/example/Pr21)  |
+| 22  |   | [Практика 22](https://github.com/diamovements/Java-practices-two/tree/c684b5b3a355e48cf8134481735517a091021da2/src/main/java/org/example/Pr22)  |
+| 23  |   | [Практика 23](https://github.com/diamovements/Java-practices-two/tree/c684b5b3a355e48cf8134481735517a091021da2/src/main/java/org/example/Pr23)  |
+| 24  |   | [Практика 24](https://github.com/diamovements/Java-practices-two/tree/c684b5b3a355e48cf8134481735517a091021da2/src/test/java/org/example/Pr22/services)  |
